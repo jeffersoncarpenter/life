@@ -22,9 +22,9 @@ recently-added number.
 
 ### Motion
 
-Left Arrow: Move left.
-Right Arrow: Move right.
-Up Arrow: Move up.
+Left Arrow: Move left.  
+Right Arrow: Move right.  
+Up Arrow: Move up.  
 Down Arrow: Move down.
 
 ### Editing
@@ -37,19 +37,19 @@ Selected regions can be used with extended commands.  The selected
 region can be abandoned by pressing the `Escape` key.  (A region of
 one square is still considered a region.)
 
-Shift+Left Arrow: Select region leftward.
-Shift+Right Arrow: Select region rightward.
-Shift+Up Arrow: Select region upward.
+Shift+Left Arrow: Select region leftward.  
+Shift+Right Arrow: Select region rightward.  
+Shift+Up Arrow: Select region upward.  
 Shift+Down Arrow: Select region downward.
 
 ### Camera
 
-Page Up: Zoom In.
+Page Up: Zoom In.  
 Page Down: Zoom Out.
 
-Ctrl+Left Arrow: Move camera left.
-Ctrl+Right Arrow: Move camera right.
-Ctrl+Up Arrow: Move camera up.
+Ctrl+Left Arrow: Move camera left.  
+Ctrl+Right Arrow: Move camera right.  
+Ctrl+Up Arrow: Move camera up.  
 Ctrl+Down Arrow: Move camera down.
 
 Home: Re-center camera on selected square.
